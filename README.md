@@ -365,48 +365,6 @@ To deploy your own fork:
 
 ---
 
-## 🤝 Contributing
-
-```mermaid
-gitGraph
-    commit id: "initial"
-    branch feat-auth
-    commit id: "auth-ui"
-    commit id: "auth-logic"
-    checkout main
-    merge feat-auth
-    branch feat-products
-    commit id: "product-grid"
-    commit id: "filters"
-    checkout main
-    merge feat-products
-    branch feat-cart
-    commit id: "cart-ui"
-    commit id: "checkout"
-    checkout main
-    merge feat-cart
-    branch feat-dashboard
-    commit id: "farmer-dash"
-    checkout main
-    merge feat-dashboard
-```
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📬 Contact
-
-- **Email:** support@agritradehub.in
-- **Phone:** +91-1800-123-AGRI
-- **Location:** New Delhi, India
-
----
-
 <p align="center">
   Made with ❤️ for Indian Farmers<br/>
   <strong>Empowering Farmers, Enriching Lives</strong>
