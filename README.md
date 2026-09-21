@@ -355,7 +355,6 @@ xdg-open index.html  # Linux
 
 The site is deployed on **GitHub Pages**:
 
-👉 **[https://ayushdixit1-av.github.io/AgriTradeHub/](https://ayushdixit1-av.github.io/AgriTradeHub/)**
 
 To deploy your own fork:
 1. Go to repo **Settings → Pages**
