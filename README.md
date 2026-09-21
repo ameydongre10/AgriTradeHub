@@ -2,7 +2,7 @@
 
 > **Farm-to-Market Digital Marketplace** — Connecting farmers directly with buyers for fair pricing, transparency, and quality produce.
 
-[![GitHub Pages](https://img.shields.io/badge/hosted-on%20GitHub%20Pages-brightgreen)](https://ayushdixit1-av.github.io/AgriTradeHub/)
+[![GitHub Pages](https://img.shields.io/badge/hosted-on%20GitHub%20Pages-brightgreen)](https://ameydongre10.github.io/AgriTradeHub/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
