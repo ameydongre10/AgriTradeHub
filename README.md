@@ -322,25 +322,6 @@ flowchart TD
     LIST --> PROFIT["💰 Better profit!"]
 ```
 
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/ayushdixit1-av/AgriTradeHub.git
-
-# Navigate to project directory
-cd AgriTradeHub
-
-# Open with live server (VS Code extension recommended)
-# Right-click index.html → Open with Live Server
-
-# Or simply open in browser
-start index.html     # Windows
-open index.html      # macOS
-xdg-open index.html  # Linux
-```
 
 ### Demo Credentials
 
